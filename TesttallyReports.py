@@ -1,13 +1,6 @@
 import pandas as pd
-import os
-import datetime
-from collections import defaultdict
 import pyodbc
 from datetime import datetime
-import requests
-import tkinter as tk
-import threading
-import time
 import streamlit as st
 
 # Create the main window
